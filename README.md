@@ -89,6 +89,6 @@ This project is created for educational and analytical purposes. Feel free to us
 ## Author
 
 **[jagrati sen]**  
-Power BI Developer | Data Analyst
+
 
 
